@@ -1,0 +1,2 @@
+module PostimegsesHelper
+end
